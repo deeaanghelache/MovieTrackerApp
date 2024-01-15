@@ -158,7 +158,7 @@ sequenceDiagram
 ![](./Diagrams/FrontendPackageDiagram.png)
 
 ## Design Patterns
-Am folosit 2 design patterns la partea de backend:
+Am folosit 3 design patterns la partea de backend:
 ### 1. Dependency Injection
 ```py
 @router.get("/my-wishlist")
