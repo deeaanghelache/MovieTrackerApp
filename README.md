@@ -185,6 +185,10 @@ sequenceDiagram
 
 ![](./Diagrams/FrontendPackageDiagram.png)
 
+
+## Diagrame de stare
+![](./Diagrams/statediagram.png)
+
 ## Design Patterns
 Am folosit 3 design patterns la partea de backend:
 ### 1. Dependency Injection
