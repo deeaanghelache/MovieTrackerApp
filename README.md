@@ -187,7 +187,7 @@ sequenceDiagram
 
 
 ## Diagrame de stare
-![](./Diagrams/statediagram.png)
+![](./Diagrams/statediagram.jpg)
 
 ## Design Patterns
 Am folosit 3 design patterns la partea de backend:
