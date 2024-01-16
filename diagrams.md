@@ -4,7 +4,7 @@ Evidentiaza activitatea unui user, trecand prin toate starile aplicatiei.
 
 ![](./Diagrams/Flowchart.png)
 
-## 2. Database Diagram (F)
+## 2. Database Diagram (A)
 
 Exemplifica campurile si cheile tabelelor din baza de date si relatiile dintre ele.
 
@@ -145,7 +145,7 @@ sequenceDiagram
 
 ## Diagrame de pachete
 
-### 7. Backend (A)
+### 7. Backend (F)
 
 Prezinta pachetele utilizate in backend si relatiile dintre ele.
 
