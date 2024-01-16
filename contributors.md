@@ -7,7 +7,7 @@
   - Frontend (UI)
   - Sprint backlog
 
-## - Francesco
+## Francesco
 
 - Diagrame:
   - Use case diagram
@@ -16,7 +16,7 @@
   - modele in backend
   - deploy backend pe aws
 
-## - Mihai
+## Mihai
 
 - Diagrame:
   - Diagrama de clasa
@@ -25,7 +25,7 @@
   - requesturile catre backend din frontend
   - definire user stories
 
-## - Robert
+## Robert
 
 - Diagrame:
   - Diagrama de interactiune (obtinerea filmelor)
@@ -33,3 +33,5 @@
 - Contributia la aplicatie:
   - endpoints si service in backend
   - bugs
+
+#### Toti am contribuit la flowchart diagram.
